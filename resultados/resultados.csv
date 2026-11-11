@@ -1,0 +1,5 @@
+﻿Algoritmo,Espera promedio (ms),Retorno promedio (ms),Utilizacion CPU (%),Tiempo total (ms),Tiempo ocioso (ms)
+FCFS,8.0,13.0,100.0,20,0
+SJF,6.5,11.5,100.0,20,0
+Round Robin,9.0,14.0,100.0,20,0
+Prioridades,7.0,12.0,100.0,20,0
